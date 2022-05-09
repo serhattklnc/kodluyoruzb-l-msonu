@@ -1,2 +1,2 @@
 # kodluyoruzb-l-msonu
-Kodluyoruz HTML bölüm sonu çalışması
+Kodluyoruz HTML bolum sonu çalışması
